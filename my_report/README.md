@@ -2,7 +2,7 @@
 
 ### First and Last Name: Konstantinos Sarlis
 ### University Registration Number: dpsd19116
-### GitHub Personal Profile: dpsd19116
+### GitHub Personal Profile: <https://github.com/dpsd19116>
 ### Augmented Reality Personal Repository: <https://github.com/dpsd19116/Augmented-Reality>
 
 # Introduction
